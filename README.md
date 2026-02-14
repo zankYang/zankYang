@@ -19,8 +19,11 @@ Building backend services and APIs focused on clean architecture, security, and 
 
 ---
 ## About
-Backend developer with 2+ years of experience building APIs and server-side applications, mainly with AdonisJS and Laravel, focused on clean architecture, security, and maintainable code. I hold a degree in Accounting and have strong knowledge of accounting principles and financial processes, which helps me translate business requirements into solid domain models (billing, payments, reporting, and data integrity) and communicate effectively with non-technical stakeholders. I enjoy working with relational databases, migrations, authentication/authorization flows, background jobs, and documentation, and I continuously improve my workflow through testing, automation, and good engineering practices.
+
+Backend developer with 4+ years of experience building APIs and server-side applications, mainly with AdonisJS and Laravel, focused on clean architecture, security, and maintainable code. I hold a degree in Accounting and have strong knowledge of accounting principles and financial processes, which helps me translate business requirements into solid domain models (billing, payments, reporting, and data integrity) and communicate effectively with non-technical stakeholders. I enjoy working with relational databases, migrations, authentication/authorization flows, background jobs, and documentation, and I continuously improve my workflow through testing, automation, and good engineering practices.
+
 ---
+
 **Focus areas**
 - REST APIs, authentication (JWT/session), authorization (RBAC)
 - Database design, migrations, performance basics
